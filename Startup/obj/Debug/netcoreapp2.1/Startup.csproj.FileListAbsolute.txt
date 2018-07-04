@@ -1,0 +1,8 @@
+F:\DotnetCore\SrvCornetBEImplement\Startup\bin\Debug\netcoreapp2.1\Startup.deps.json
+F:\DotnetCore\SrvCornetBEImplement\Startup\bin\Debug\netcoreapp2.1\Startup.runtimeconfig.json
+F:\DotnetCore\SrvCornetBEImplement\Startup\bin\Debug\netcoreapp2.1\Startup.runtimeconfig.dev.json
+F:\DotnetCore\SrvCornetBEImplement\Startup\bin\Debug\netcoreapp2.1\Startup.dll
+F:\DotnetCore\SrvCornetBEImplement\Startup\obj\Debug\netcoreapp2.1\Startup.csprojAssemblyReference.cache
+F:\DotnetCore\SrvCornetBEImplement\Startup\obj\Debug\netcoreapp2.1\Startup.csproj.CoreCompileInputs.cache
+F:\DotnetCore\SrvCornetBEImplement\Startup\obj\Debug\netcoreapp2.1\Startup.AssemblyInfoInputs.cache
+F:\DotnetCore\SrvCornetBEImplement\Startup\obj\Debug\netcoreapp2.1\Startup.AssemblyInfo.cs
